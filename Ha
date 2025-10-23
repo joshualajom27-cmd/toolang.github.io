@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="tl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TotooLang</title>
+</head>
+<body style="font-family:sans-serif; text-align:center; padding-top:100px;">
+  <h1>TotooLang</h1>
+  <p>Hindi mo kailangang ipaliwanag sa lahat kung bakit ka tahimik. Hindi naman lahat marunong makinig.</p>
+</body>
+</html>
